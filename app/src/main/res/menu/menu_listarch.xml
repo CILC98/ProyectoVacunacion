@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/menu_listarch_editar"
+        android:title="Editar" />
+    <item
+        android:id="@+id/menu_listarch_anadir_vacunas"
+        android:title="Vacunas" />
+    <item
+        android:id="@+id/menu_listarch_eliiminar"
+        android:title="Eliminar"
+        />
+</menu>
